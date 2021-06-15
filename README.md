@@ -1,7 +1,7 @@
 # DynDns-OVH
 
 On my homelab, i don't have fixed IP address so i need to be aware in case of change.
-This script is used to detect and perform the change of IP address throught the DynDNS service of OVH.
+This script is use to detect and perform the change of IP address throught the DynDNS service of OVH.
 
 ## Prerequisite
 Domain name register with OVH.

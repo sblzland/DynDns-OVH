@@ -14,4 +14,4 @@ The following variables need to be change :
  - **password** : password associate with the login for the DynDNS service
 
 Add the script to a cronjob to perform the monitoring and the change of ip address. 
-When a change is done, a log file "ip_pub_change.log" is create and populate with the timestamp.
+When a change is done, a log file "ip_pub_change.log" is create and populate with the timestamp. 
